@@ -1,0 +1,293 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "generic.html",
+			"settings":
+			{
+				"buffer_size": 18289,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"left_delete",
+					null,
+					"AQAAAKUGAAAAAAAApQYAAAAAAAABAAAAZw",
+					"AQAAAAAAAAABAAAApgYAAAAAAACmBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": "g"
+					},
+					"AQAAAKUGAAAAAAAApgYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAApQYAAAAAAAClBgAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Circle/Desktop/vijayy's portfolio/index.html",
+		"/C/Users/Circle/Desktop/vijayy's portfolio/generic.html",
+		"/C/Users/Circle/Desktop/vijayy's portfolio/vijay-portfolio-website/generic.html",
+		"/C/Users/Circle/Desktop/vijayy's portfolio/assets/css/main.css",
+		"/C/Users/Circle/Desktop/vijayy's portfolio/elements.html",
+		"/C/Users/Circle/AppData/Local/Temp/assets/webfonts/fa-regular-400.svg",
+		"/C/Users/Circle/AppData/Local/Temp/assets/webfonts/fa-brands-400.svg",
+		"/C/Users/Circle/AppData/Local/Temp/index.html",
+		"/C/Users/Circle/Downloads/predict house price/istockphoto-1480376540-612x612.jpg",
+		"/C/Users/Circle/Desktop/vijayy's portfolio/images/pic06.jpg",
+		"/C/Users/Circle/Desktop/vijayy's portfolio/images/pic01.jpg",
+		"/C/Users/Circle/Desktop/vijayy's portfolio/images/pic02.jpg",
+		"/D/myphotas/Pictures/New folder (14)/IMG_20201109_141722.jpg",
+		"/C/Users/Circle/Desktop/protfilioweb/index.html",
+		"/C/Program Files/Sublime Text 3/mrviraj.html",
+		"/C/Program Files/Sublime Text 3/public class aa(viraj005",
+		"/C/Program Files/Sublime Text 3/public class aa(mydocumnt html",
+		"/C/Program Files/JetBrains/IntelliJ IDEA Community Edition 2020.3.1/bin/idea.exe",
+		"/C/Program Files/Sublime Text 3/image",
+		"/C/Users/Circle/Documents/html.jpeg",
+		"/C/Program Files/Sublime Text 3/image1",
+		"/C/Program Files/Sublime Text 3/covid19.jpg",
+		"/C/Program Files/Sublime Text 3/viraj.html",
+		"/C/Program Files/Sublime Text 3/covid2020.html",
+		"/C/Program Files/Sublime Text 3/covid 20.css",
+		"/C/Program Files/Sublime Text 3/index.html",
+		"/C/Program Files/Sublime Text 3/covid19 i",
+		"/C/Program Files/Sublime Text 3/covid2020style.css",
+		"/C/Program Files/Sublime Text 3/indes.html",
+		"/C/Program Files/Sublime Text 3/doc.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "generic.html",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 18289,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								457,
+								457
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "generic.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
